@@ -1,5 +1,4 @@
 # dwm - dynamic window manager
-# See LICENSE file for copyright and license details.
 
 include config.mk
 
@@ -49,3 +48,4 @@ uninstall:
 		${DESTDIR}${MANPREFIX}/man1/dwm.1
 
 .PHONY: all options clean dist install uninstall
+
