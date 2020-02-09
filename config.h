@@ -49,7 +49,6 @@ static const Layout layouts[] = {
 	{ "[@]",      spiral },
 	{ "|M|",      centeredmaster },
 	{ "[\\]",     dwindle },
-	{ ">M>",      centeredfloatingmaster }
 };
 
 /* key definitions */
