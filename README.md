@@ -13,4 +13,5 @@ only contains keybindings specific to dwm. spawning windows is handled by the sx
 - dwindle layout
 - fibonacci layout
 - gaps
+- movestack
 
