@@ -1,5 +1,5 @@
 /* appearance */
-static const unsigned int borderpx  = 3;        /* border pixel of windows */
+static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int gappih    = 8;        /* horizontal gap between windows */
 static const unsigned int gappiv    = 8;        /* vertical gap between windows */
@@ -11,12 +11,12 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "monospace:size=10" };
 static const char dmenufont[]       = "monospace:size=10";
 
-static const char col_normfg[]      = "#bbbbbb";
+static const char col_normfg[]      = "#aaaaaa";
 static const char col_normbg[]      = "#222222";
-static const char col_normborder[]  = "#444444";
+static const char col_normborder[]  = "#222222";
 static const char col_selfg[]       = "#ffffff";
-static const char col_selbg[]       = "#005577";
-static const char col_selborder[]   = "#00ff00";
+static const char col_selbg[]       = "#222222";
+static const char col_selborder[]   = "#aaaaaa";
 static const char *colors[][3]      = {
 	/*               fg          bg          border        */
 	[SchemeNorm] = { col_normfg, col_normbg, col_normborder },
