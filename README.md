@@ -9,6 +9,6 @@ only contains keybindings specific to dwm. spawning windows is handled by the sx
 
 ## patches
 
-- gaps
+- vanitygaps
 - movestack
 
