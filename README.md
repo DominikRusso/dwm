@@ -9,9 +9,6 @@ only contains keybindings specific to dwm. spawning windows is handled by the sx
 
 ## patches
 
-- centered master layout
-- dwindle layout
-- fibonacci layout
 - gaps
 - movestack
 
